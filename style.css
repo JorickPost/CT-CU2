@@ -1,0 +1,22 @@
+body {
+    background-image: url("banana-dance-dancing-banana.gif");
+    
+    background-repeat: repeat space;
+  }
+
+.contextblok {
+    padding-top: 25px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    background-color: lightblue;
+  }
+
+ .tekstblok {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+
+  }
